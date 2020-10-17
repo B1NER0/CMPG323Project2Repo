@@ -1,0 +1,8 @@
+{
+    "prettier.jsxSingleQuote": true,
+    "prettier.singleQuote": true,
+    "prettier.useTabs": true,
+    "prettier.configPath": "C:\\Dev\\BaruchStudioDev\\OVCAnnualReport\\Source\\AnnualReportWebUI\\.vscode\\.prettierrc",
+    "editor.formatOnSave": true,
+    "prettier.semi": false
+}
